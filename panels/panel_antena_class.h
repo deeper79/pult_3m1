@@ -7,6 +7,7 @@
 #include <QLabel>
 #include <QGridLayout>
 #include <QPaintEvent>
+#include "../opengl/opengl_draw_class.h"
 
 
 class panel_antena_class: public QFrame
@@ -25,6 +26,7 @@ private:
 
     QLabel          *text_KU;
     QLabel          *text_UM;
+    opengl_draw_class *opengl_kurs;
 
 };
 
