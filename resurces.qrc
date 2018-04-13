@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/fshader_scan.frag</file>
+        <file>IMAGE/WBpressed.png</file>
+        <file>IMAGE/WB.png</file>
+        <file>IMAGE/toppressed.png</file>
+        <file>IMAGE/top.png</file>
+        <file>IMAGE/rightpressed.png</file>
+        <file>IMAGE/right.png</file>
+        <file>IMAGE/pustpressed.png</file>
+        <file>IMAGE/pust.png</file>
+        <file>IMAGE/PhotoShop_013_1.jpg</file>
+        <file>IMAGE/leftpressed.png</file>
+        <file>IMAGE/left.png</file>
+        <file>IMAGE/focuspressed.png</file>
+        <file>IMAGE/focus.png</file>
+        <file>IMAGE/downpressed.png</file>
+        <file>IMAGE/down.png</file>
+        <file>IMAGE/curspressed.png</file>
+        <file>IMAGE/curs.png</file>
+        <file>IMAGE/contrastpressed.png</file>
+        <file>IMAGE/contrast.png</file>
+        <file>IMAGE/brightpressed.png</file>
+        <file>IMAGE/bright.png</file>
+        <file>shaders/default_fragment_shader.fsh</file>
+        <file>shaders/default_vertex_shader.vsh</file>
+        <file>shaders/vshader_scan.vert</file>
+        <file>shaders/fshader_scan_back.fsh</file>
+        <file>shaders/vshader_scan_back.vsh</file>
+    </qresource>
+</RCC>
